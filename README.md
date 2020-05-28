@@ -1,2 +1,2 @@
-# praktikum
-Учился ставить Webpack, Babel, postCSS, выкладывать на сервак.
+# Учебный проект по Webpack
+Учился ставить Webpack, Babel, postCSS, выкладывать на сервак. Пустой сайт.
